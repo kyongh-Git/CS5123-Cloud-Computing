@@ -1,0 +1,5 @@
+CommonSense     4.519803847604678
+MoonlightSonata 9.51063829787234
+PridePrejudice  3.8673039077874614
+ScarletStudy    4.245780795344326
+SherlockHolmes  3.62550881953867
